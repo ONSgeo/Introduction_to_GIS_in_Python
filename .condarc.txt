@@ -1,0 +1,7 @@
+channel_alias: http://UserName:EncryptedPassword@art-p-01/artifactory/list/PyPI-remote/
+channels:
+ - defaults
+ - http://UserName:EncryptedPassword@art-p-01/artifactory/list/Anaconda/
+default_channels:
+ - http://UserName:EncryptedPassword@art-p-01/artifactory/list/conda/
+ssl_verify: true

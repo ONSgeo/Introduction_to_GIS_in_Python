@@ -1,0 +1,8 @@
+[global] 
+timeout = 		60 
+trusted-host = 		art-p-01 
+index-url = 		http://UserName:EncryptedPassword@art-p-01/artifactory/api/pypi/pypi.python.org/simple 
+extra-index-url = 	http://UserName:EncryptedPassword@art-p-01/artifactory/list/yr-python/
+			http://UserName:EncryptedPassword@art-p-01/artifactory/api/api/pypi/DAP-PyPist 
+			http://UserName:EncryptedPassword@art-p-01/artifactory/list/PyPI-remote-cache
+			http://UserName:EncryptedPassword@art-p-01/artifactory/list/PyPI-remote
