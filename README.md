@@ -27,6 +27,9 @@
 
 
 ### Course Instructions
-- Download the **Intro_to_Geography_in_Python.ipynb** and use it as your guide.
-- Downlaod **Intro_to_GIS_in_Python_Workbook.ipynb** and use it as your working environment as you make your way through the course.
-- Download the **data** folder to your local drive and use the data provided
+- Download this repository onto your machine.
+- Unzip the repository and save it on your Downloads.
+- Launch **Jupyter Notebook** from the Program **Anaconda Navigator**.
+- On Anaconda Notebook, navigate to the downloads folder and open the **Intro_to_Geography_in_Python.ipynb** and use it as your guide.
+- Repeat the previous step and open the **Intro_to_GIS_in_Python_Workbook.ipynb** to use it as your working environment as you make your way through the course.
+- copy the **data** folder from the downloads to your local drive and use the data provided.
