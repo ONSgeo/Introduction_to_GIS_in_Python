@@ -23,13 +23,16 @@
 
 ### Requirements
 - Please make sure that you have followed the [Installation Guide for python Geo-libraries](https://onsgeo.github.io/geospatial-training/docs/guides/python_install) or have all the recommended libraries pre-installed on your machine before beginning this course.
-- We recommend going through the [Awareness of Geography and Statistics](https://onsgeo.github.io/training/docs/awareness_of_geog_and_stats/intro.html) training prior to starting this course.
+- We recommend going through the [Awareness of Geography and Statistics](https://onsgeo.github.io/geospatial-training/docs/awareness_of_geog_and_stats) training prior to starting this course.
 
 
 ### Course Instructions
 - Download this repository onto your machine.
 - Unzip the repository and save it on your Downloads.
 - Launch **Jupyter Notebook** from the Program **Anaconda Navigator**.
-- On Anaconda Notebook, navigate to the downloads folder and open the **Intro_to_Geography_in_Python.ipynb** and use it as your guide.
+- On Anaconda Notebook, navigate to the downloads folder and open the **Intro_to_Geography_in_Python_Instructions.ipynb** and use it as your guide.
 - Repeat the previous step and open the **Intro_to_GIS_in_Python_Workbook.ipynb** to use it as your working environment as you make your way through the course.
 - copy the **data** folder from the downloads to your local drive and use the data provided.
+
+
+
