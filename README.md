@@ -12,11 +12,9 @@
 
 **By the end of the course you will:**
 
-- Understand what spatial data and GIS are.
-- Know how to use the Open Geography Portal.
-- Be aware of map projections and Coordinate Reference Systems (CRS) and be able to modify them.
-- Be able to load and manipulate spatial data in Python using the geopandas library.
+- Know how to load and manipulate spatial data into Python using the Geopandas library.
 - Be familiar with using GSS codes to join statistics to geographies.
+- Be aware of map projections and Coordinate Reference Systems (CRS) and be able to modify them.
 - Understand how to use spatial joins.
 - Know how to make static maps in matplotlib.
 - Be able to export your maps and shapefiles.
