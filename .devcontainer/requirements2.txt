@@ -5,3 +5,4 @@ pyproj
 Shapely
 geopandas
 mapclassify
+notebook
