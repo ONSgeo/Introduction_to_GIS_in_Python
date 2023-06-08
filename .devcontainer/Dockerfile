@@ -3,13 +3,13 @@
 ARG VARIANT="4.2"
 FROM ghcr.io/rocker-org/devcontainer/tidyverse:${VARIANT}
 
-RUN apt-get install software-properties-common \
-    && add-apt-repository ppa:ubuntugis/ppa -y
+#RUN apt-get install software-properties-common \
+#    && add-apt-repository ppa:ubuntugis/ppa -y
 
-RUN apt-get update
+#RUN apt-get update
 
-RUN apt-get install gdal-bin -y \
-    && apt-get install libgdal-dev -y
+#RUN apt-get install gdal-bin -y \
+#    && apt-get install libgdal-dev -y
 
 # Install Python packages
 COPY requirements.txt /tmp/pip-tmp/
