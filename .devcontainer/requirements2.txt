@@ -1,0 +1,7 @@
+Rtree
+GDAL
+Fiona
+pyproj
+Shapely
+geopandas
+mapclassify
