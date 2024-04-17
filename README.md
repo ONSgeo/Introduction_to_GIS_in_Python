@@ -20,7 +20,7 @@
 - Be able to export your maps and shapefiles.
 
 ### Requirements
-- Please make sure that you have followed the [Installation Guide for python Geo-libraries](https://onsgeo.github.io/geospatial-training/docs/guides/python_install) or have all the recommended libraries pre-installed on your machine before beginning this course.
+- Please make sure that you have followed the [Installation Guide for python Geo-libraries](https://onsgeo.github.io/geospatial-training/docs/guides/python_install_anaconda) or have all the recommended libraries pre-installed on your machine before beginning this course.
 - We recommend going through the [Awareness of Geography and Statistics](https://onsgeo.github.io/geospatial-training/docs/awareness_of_geog_and_stats) training prior to starting this course.
 
 
